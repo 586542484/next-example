@@ -1,0 +1,2 @@
+# next-example
+learn nextjs
